@@ -1,5 +1,5 @@
 ## Structure
-All tasks have been completed in index.js under the comments with corresponding task names. Some additional functionality has been implemented outside of those code blocks and have been commented appropriately. 
+All tasks have been completed in index.js under the comments with corresponding task names, near the bottom of the file. Some additional functionality has been implemented outside of those code blocks and have been commented appropriately. 
 
 ## Scenario
 
